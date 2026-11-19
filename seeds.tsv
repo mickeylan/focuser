@@ -1,0 +1,20 @@
+# REA_GHIDRA_SEED_FILE format: address<TAB>function[<TAB>name]
+0x0800028c	function	Reset_Handler
+0x08004c98	function	NMI_Handler
+0x0800457c	function	HardFault_Handler
+0x08004c94	function	MemManage_Handler
+0x08001788	function	BusFault_Handler
+0x08007afc	function	UsageFault_Handler
+0x080001f4	function	SVC_Handler
+0x080019c0	function	DebugMon_Handler
+0x08000238	function	PendSV_Handler
+0x080056e0	function	SysTick_Handler
+0x080002a6	function	WWDG_IRQHandler
+0x08001964	function	DMA1_Channel1_IRQHandler
+0x08001974	function	DMA1_Channel2_IRQHandler
+0x08001984	function	DMA1_Channel3_IRQHandler
+0x08007a64	function	USB_LP_CAN1_RX0_IRQHandler
+0x080057f0	function	TIM1_UP_IRQHandler
+0x08005800	function	TIM3_IRQHandler
+0x08005864	function	TIM4_IRQHandler
+0x08005e84	function	USART3_IRQHandler

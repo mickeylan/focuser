@@ -1,0 +1,214 @@
+0x0800019d  `pGf)
+0x080002fd  hu)1F
+0x0800034e  #F*F0F
+0x08000447  eJF1F F%`MF
+0x08000587  +pGpGpGpG
+0x08000591  HpGp"
+0x08000778  02bUm
+0x080007a8  02bUm
+0x080007c4  #\b\cT"T@
+0x0800083b  FAF F
+0x08000ac8  JF9F F
+0x08000b11  HpGp"
+0x08000dc2  iFSF 
+0x08000dff  FpG:(
+0x080011d4  bF9FN
+0x080011e2  RAIAK
+0x080011f8  bF9FN
+0x08001206  RAIAK
+0x0800121c  bF9FN
+0x0800125d  ~}|{zyxwvvutsrqqponnmllkjjihhgffeddccbaa``__^^]]\\[[ZZYYXXWWVVUUUTTSSRRRQQPPPOOONNMMMLLLKKKJJJIIIHHHGGGGFFFEEEDDDDCCCCBBBBAAA
+0x08001345  ! 3[B
+0x080016f9  Fej(F
+0x080019a3  hc`Dh
+0x08001a30  V1.001
+0x08001a89  F2J2K
+0x08001a93  F"F+F
+0x08001b5b  ?%.3fV
+0x08001cd0  pGpGpG
+0x08001d7b  b h@h 
+0x08001d82  i@(C!hH` h
+0x08001d91  @0C!h
+0x08001e8b  H bDb
+0x08001eab   ../Src/adc.c
+0x08001ec7  'WI h
+0x08001f1b  bCI h
+0x08001f43  b h@h
+0x08001f63  b0I h
+0x08001fdc  3F*F j
+0x080020c1  I(1 h
+0x080020cf  I<1 h
+0x080020dd  IP1 h
+0x080020ed  Id1 h
+0x0800215f  `WI h
+0x0800217a  QI(1 h
+0x08002188  MI<1 h
+0x08002198  IIP1 h
+0x080021a8  EId1 h
+0x08002218  )I(1 h
+0x08002226  &I<1 h
+0x08002236  "IP1 h
+0x08002249  Id1 h
+0x08002379  `;F2F)F F
+0x0800277b  FLI`h
+0x080027aa   hF`@I`h
+0x080027cd  b8I`h
+0x08002899    d  
+0x080028e5  "VI F
+0x08002950  KFBF9F F
+0x08002986  *F1F F
+0x080029f4  *F1F F
+0x08002c33  F9F*F3F
+0x080032c4  $P)F h
+0x08003451  IH` x
+0x080034bc  VH@h 
+0x080034c7  CSIH` x
+0x0800350c  BH@h 
+0x08003517  C?IH`
+0x080035d3  IH` x
+0x080035e6  `P!i@
+0x08003d89  `(hP(;
+0x08003e09  hih h
+0x08003e1d  hih h
+0x08003e31  hih h
+0x08003ea7    w h
+0x08003ec9    w h
+0x08003ee9    w h
+0x08003f0b    w h
+0x08003f2b    w h
+0x08003f4d    w h
+0x08003f6d    w h
+0x08003f8f    w h
+0x080040bd  % h@i
+0x080040d0   h@i 
+0x080040d8  !hHa k
+0x080040fe   h@i 
+0x08004106  !hHa`k
+0x0800412d  h hGiO
+0x080041f8   h@i 
+0x08004200  !hHa`kP
+0x08004209  HakHc`k
+0x080042b3  a h@i 
+0x080042bc  !hHa h
+0x080042e5  F3I h
+0x08004361  H`cDb
+0x08004399  H cDb
+0x080043c7   ../Src/usart.c
+0x08004431   akHc
+0x08004471  ` h@i@
+0x0800447a  !hHa h@i@
+0x080044a0  pGpG-
+0x0800451e  !hH` i
+0x08004553  "@! F
+0x080045ef  a;F2F&I F
+0x08004622  :F1F F
+0x0800465d  a:F1F F
+0x080046c3    c  
+0x0800470f    c  
+0x0800478d  `!hHa
+0x08004797    c  
+0x080047c1    c  
+0x08004841    c  
+0x080048ef   ../Src/adc.c
+0x08004989  I(1hF
+0x08004b10  ../Src/i2c.c
+0x08004b29  `G H`
+0x08004b87   ../Src/tim.c
+0x08004ba1  `G H`
+0x08004c03   ../Src/tim.c
+0x08004c4f   ../Src/usart.c
+0x080051d6  ai;F(h
+0x08005212  ai;F(h
+0x0800523e  ai;F(h
+0x08005271  a`i8D`a
+0x0800556a  GB1FHF
+0x080055ab  F1FHF
+0x08005788  ../Src/main.c
+0x08005941  #CapG
+0x08005963  %%C)C
+0x080059ef  %tj h@i
+0x08005a3d  Flj(h
+0x08005a59  ` h@i 
+0x08005a62  !hHa h@i 
+0x08005a6e  !hHa  
+0x08005a83  Fej(F
+0x08005aa3  hQa !
+0x08005bc1  ` h@i 
+0x08005bca  !hHa  
+0x08005c15  C(C!h
+0x08005c1b  ` h@i 
+0x08005c27  C!hHa_I h
+0x08005e45  ` h@i 
+0x08005e4e  !hHa  
+0x08005ebb  R1F F
+0x0800617a  )FBh F
+0x080061d1  F+F"F
+0x080061e9  F+F"F
+0x08006229  Q+F2F
+0x08006265  a+F2F
+0x080062b7   CDC Config
+0x080062fb   CDC Interface
+0x08006333   STMicroelectronics
+0x0800636f   STM32 Virtual ComPort
+0x080063af   00000000001A
+0x08006425   ~~_m |
+0x0800654b   )F F
+0x080065cc  :x0Fq
+0x08006788  1FBi F
+0x080068bf  @../Src/usbd_conf.c
+0x08006915  F+F2F9F
+0x08006977  F;F2F)F
+0x08006b9b  F;F2F)F
+0x08006bef  pJxBp
+0x08006c53  a1F F
+0x08006f41  F!F(F
+0x08006f59  "9F(F
+0x0800785e  :F0Fai
+0x08007b11  F!F@ 
+0x08007b45   pG08
+0x08007e2d  M-hl`
+0x08007e33  M-h,`
+0x08007e45  MLh,`
+0x08007e4b  MLh,`O
+0x08007fce  ChLh#DC`
+0x08007ff1  hdh#DK`
+0x080080fe  .F-hhh
+0x0800811c  (h0`hh
+0x08008152  x`l`8F
+0x080081e5  ` 8pG
+0x08008215  hpGpGpG
+0x08008250  @hDh$h
+0x0800825a  DhL`Lh
+0x08008497   IDLE
+0x08008514  BhRhB`
+0x08008524  BhRhB`Bh
+0x0800865d  @:FIF@F
+0x08009393    ?  
+0x080093a3  0($"!0
+0x0800944a  @@@@@@@
+0x080094a2   ?   
+0x080094c2   ?   
+0x080094d2   ?  # 
+0x08009513    ?  
+0x08009542   ?    0
+0x08009594  $$8PO
+0x080095b3  8 !!"
+0x08009622   8&!  
+0x08009694  $"""? 
+0x080096e3    ?  
+0x08009713    ?  
+0x08009743    ?  
+0x080097a2    ?! 
+0x080097b3  3$$$$
+0x08009823  !0,"!0
+0x08009964  defaultTask
+0x08009970  Communication
+0x08009980  Display
+0x080099d1  @@@@@@@@@AAAAA@@@@@@@@@@@@@@@@@@
+0x08009a01            
+0x08009ae6  DD?$$$
+0x08009b5b  @BDX@@
+0x08009b9b  @@A^@@pNA@@
+0x08009bd3   HDBA_ABDH
+0x08009d89  `q37>
+0x08009d90  ?71` y<o

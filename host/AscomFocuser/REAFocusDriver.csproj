@@ -1,0 +1,62 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!--
+    Builds the ASCOM driver for the REA focus controller.
+
+    The ASCOM interface assemblies are not shipped with this repository. Point
+    AscomDir at a directory that holds ASCOM.DeviceInterfaces.dll and
+    ASCOM.Exceptions.dll, for example:
+
+      dotnet build -p:AscomDir="C:\Program Files (x86)\ASCOM Platform 7\ASCOM Interfaces"
+
+    or install the ASCOM.DeviceInterfaces and ASCOM.Exception.Library NuGet
+    packages and copy the assemblies from the package cache.
+  -->
+
+  <PropertyGroup>
+    <TargetFramework>net472</TargetFramework>
+    <AssemblyName>REAFocus</AssemblyName>
+    <RootNamespace>REA.Focus</RootNamespace>
+    <LangVersion>5</LangVersion>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <GenerateAssemblyInfo>true</GenerateAssemblyInfo>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+    <AscomDir Condition="'$(AscomDir)' == ''">$(MSBuildThisFileDirectory)lib</AscomDir>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="Fp1Client.cs" />
+    <Compile Include="REAFocusDriver.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="ASCOM.DeviceInterfaces">
+      <HintPath>$(AscomDir)\ASCOM.DeviceInterfaces.dll</HintPath>
+      <Private>true</Private>
+    </Reference>
+    <Reference Include="ASCOM.Exceptions">
+      <HintPath>$(AscomDir)\ASCOM.Exceptions.dll</HintPath>
+      <Private>true</Private>
+    </Reference>
+    <Reference Include="ASCOM.Utilities">
+      <HintPath>$(AscomDir)\ASCOM.Utilities.dll</HintPath>
+      <Private>true</Private>
+    </Reference>
+    <Reference Include="ASCOM.SettingsProvider">
+      <HintPath>$(AscomDir)\ASCOM.SettingsProvider.dll</HintPath>
+      <Private>true</Private>
+    </Reference>
+    <Reference Include="ASCOM.Internal.Extensions">
+      <HintPath>$(AscomDir)\ASCOM.Internal.Extensions.dll</HintPath>
+      <Private>true</Private>
+    </Reference>
+    <Reference Include="ASCOM.Attributes">
+      <HintPath>$(AscomDir)\ASCOM.Attributes.dll</HintPath>
+      <Private>true</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Windows.Forms" />
+  </ItemGroup>
+
+</Project>

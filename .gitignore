@@ -1,0 +1,22 @@
+# Local agent/runtime state
+.rscode/
+
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# .NET build products and locally installed ASCOM dependencies
+host/AscomFocuser/bin/
+host/AscomFocuser/obj/
+host/AscomFocuser/lib/
+
+# Host test executables
+test/*.exe
+test/fp_test_linux
+
+# Generated firmware images and Ghidra database/cache (recreate locally)
+/firmware.bin
+/firmware.elf
+/ghidra_project/
+*.log

@@ -1,0 +1,36 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!--
+    Offline managed driver checks against a fake loopback TCP FP1 focuser.
+    No COM registration, registry access or real hardware is required.
+  -->
+
+  <PropertyGroup>
+    <TargetFramework>net472</TargetFramework>
+    <OutputType>Exe</OutputType>
+    <AssemblyName>REAFocusDriverTest</AssemblyName>
+    <RootNamespace>REA.Focus.Test</RootNamespace>
+    <LangVersion>5</LangVersion>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+    <AscomDir Condition="'$(AscomDir)' == ''">$(MSBuildThisFileDirectory)lib</AscomDir>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="REAFocusDriverTest.cs" />
+    <ProjectReference Include="REAFocusDriver.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="ASCOM.DeviceInterfaces">
+      <HintPath>$(AscomDir)\ASCOM.DeviceInterfaces.dll</HintPath>
+      <Private>true</Private>
+    </Reference>
+    <Reference Include="ASCOM.Exceptions">
+      <HintPath>$(AscomDir)\ASCOM.Exceptions.dll</HintPath>
+      <Private>true</Private>
+    </Reference>
+  </ItemGroup>
+
+</Project>
